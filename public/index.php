@@ -9,19 +9,7 @@
     <div class="wrapper">
 
       <header>
-        <div class="menu_bar">
-          <div class="block_logo">
-            <img src="assets/images/PW19_logo.png" alt="Power Freak Logo" width="100" />
-          </div>
-
-          <div class="block_panier">
-            <img src="assets/images/icons/shop.svg" alt="Icône Shop" width="30" />
-          </div>
-
-          <nav>
-
-          </nav>
-        </div>
+        <?php include 'partials/page-head.php';  ?>
       </header>
 
       <main>

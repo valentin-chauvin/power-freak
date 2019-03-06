@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+@mixin flex_row() {
+  display: flex;
+  flex-direction: row;
+}
+
+@mixin flex_column() {
+  display: flex;
+  flex-direction: column;
+}
+@mixin flex_center() {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  > * {
+    height: 100%;
+    width: 100%;
+  }
+}
