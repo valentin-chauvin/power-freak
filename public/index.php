@@ -1,60 +1,35 @@
 <!doctype html>
-<html lang="en">
-    <head>
-        <?php include 'partials/meta.php';  ?>
-        <title>The Road | Home</title>
-    </head>
+<html lang="fr">
+  <head>
+      <?php include 'partials/meta.php';  ?>
+      <title>Power Freak™</title>
+  </head>
 
-    <body>
-      <div class="wrapper">
+  <body>
+    <div class="wrapper">
 
-<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
-<!-- DEBUT HEADER -->
-
-        <header>
-          <div class="container">
-            <?php include 'partials/menu.php';  ?>
+      <header>
+        <div class="menu_bar">
+          <div class="block_logo">
+            <img src="assets/images/PW19_logo.png" alt="Power Freak Logo" width="100" />
           </div>
 
-        </header>
+          <div class="block_panier">
+            <img src="assets/images/icons/shop.svg" alt="Icône Shop" width="30" />
+          </div>
 
-<!-- FIN HEADER -->
-<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
-<!-- DEBUT MAIN -->
+          <nav>
 
-            <main>
-              <section class="slider">
-                <div class="flexslider">
-                  <ul class="slides">
-                    <li>
-                      slide1
-                    </li>
-                    <li>
-                      slide2
-                    </li>
-                    <li>
-                      slide3
-                    </li>
-                  </ul>
-                </div>
-              </section>
-            </main>
+          </nav>
+        </div>
+      </header>
 
-<!-- FIN MAIN -->
-<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
-<!-- DEBUT FOOTER -->
+      <main>
+      </main>
 
-<footer>
+      <footer>
+      </footer>
 
-</footer>
-
-<!-- FIN FOOTER -->
-
-      </div>
-      <script type="text/javascript" charset="utf-8">
-  $(window).load(function() {
-    $('.flexslider').flexslider();
-  });
-</script>
-    </body>
+    </div>
+  </body>
 </html>

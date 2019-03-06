@@ -8,7 +8,7 @@
   "repository": {
     "type": "git"
   },
-  "author": "Nicolas TISSIER",
+  "author": "Valentin CHAUVIN",
   "license": "GNU GPL 3",
   "private": false,
   "dependencies": {

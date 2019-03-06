@@ -15,7 +15,7 @@ module.exports = {
   },
   output: {
     path: path.resolve('./public/build/'),
-    publicPath: '/exo-mini-site/public/build/',//Edit here
+    publicPath: '/power-freak/public/build/',//Edit here
     filename: '[name].js',
   },
   plugins: [new MiniCssExtractPlugin()],

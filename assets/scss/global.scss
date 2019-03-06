@@ -1,4 +1,3 @@
 @charset "utf-8";
-@import "_header.scss";
-@import "components/flexslider.scss";
-@import url('https://fonts.googleapis.com/css?family=Kanit:400,700');
+@import "structure.scss";
+@import "parts/page-head.scss";
