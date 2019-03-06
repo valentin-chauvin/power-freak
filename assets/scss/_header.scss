@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+
+header {
+  height: 20vh;
+  width: 100%;
+  background-color: red;
+
+  .inner {
+    text-align: center;
+
+    .lien--logo {
+      display: inline-block;
+    }
+    .logo {
+      margin-top: 1.2vh;
+      justify-content: center;
+    }
+
+
+nav {
+
+  justify-content: center;
+  display: flex;
+  a {
+    font-family: "Kanit";
+    list-style-type: none;
+    color: black;
+    font-size: 2em;
+}
+}
+}
+}
