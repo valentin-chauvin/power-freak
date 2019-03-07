@@ -11,6 +11,9 @@
     animation-timing-function: cubic-bezier(0.25,0.1,0.25,1);
     animation-name: slidein;
     animation-fill-mode: backwards;
+    @media screen and (max-width: 1200px) {
+      height: 133%;
+    }
   }
   .home_bubble {
     position: absolute;
@@ -29,6 +32,11 @@
       animation-name: bubble;
       animation-fill-mode: backwards;
       animation-delay: 800ms;
+      @media screen and (max-width: 1200px) {
+        width: 65%;
+        top: 10vh;
+        right: 0;
+      }
     }
   }
 }
@@ -39,11 +47,17 @@
   width: 100%;
   text-align: center;
   color: $color-white;
+  @media screen and (max-width: 1200px) {
+    @include flex_column();
+  }
   div {
     @include flex_column();
     justify-content: center;
     width: 50%;
     height: 100%;
+    @media screen and (max-width: 1200px) {
+      width: 100%;
+    }
   }
   .gouts_infos {
     background-color: $color-orange;
@@ -81,11 +95,17 @@
   width: 100%;
   text-align: center;
   color: $color-white;
+  @media screen and (max-width: 1200px) {
+    @include flex_column();
+  }
   div {
     @include flex_column();
     justify-content: center;
     width: 50%;
     height: 100%;
+    @media screen and (max-width: 1200px) {
+      width: 100%;
+    }
   }
   .valais_picture {
     background: url('../../assets/images/valais_picture.jpg') center no-repeat;

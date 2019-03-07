@@ -11,6 +11,10 @@ header {
         img {
           width: 10vw;
           height: auto;
+          @media screen and (max-width: 1200px) {
+            height: 6vh;
+            width: auto;
+          }
         }
     }
     .block_right {

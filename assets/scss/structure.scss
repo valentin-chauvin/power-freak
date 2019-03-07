@@ -32,4 +32,7 @@ h1 {
   font-family: $font-special;
   font-size: 4em;
   text-transform: uppercase;
+  @media screen and (max-width: 1200px) {
+    font-size: 2em;
+  }
 }
