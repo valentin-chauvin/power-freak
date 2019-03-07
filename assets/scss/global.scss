@@ -1,6 +1,56 @@
 @charset "utf-8";
 
+@font-face {
+    font-family: 'blackberriesbold';
+    src: url('../../assets/fonts/blackberries_bold-webfont.eot');
+    src: url('../../assets/fonts/blackberries_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../assets/fonts/blackberries_bold-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/blackberries_bold-webfont.woff') format('woff'),
+         url('../../assets/fonts/blackberries_bold-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'blackberriesregular';
+    src: url('../../assets/fonts/blackberries-webfont.eot');
+    src: url('../../assets/fonts/blackberries-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../assets/fonts/blackberries-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/blackberries-webfont.woff') format('woff'),
+         url('../../assets/fonts/blackberries-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'free_brushfontregular';
+    src: url('../../assets/fonts/freebrushfont-webfont.eot');
+    src: url('../../assets/fonts/freebrushfont-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../assets/fonts/freebrushfont-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/freebrushfont-webfont.woff') format('woff'),
+         url('../../assets/fonts/freebrushfont-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'sofia_prolight';
+    src: url('../../assets/fonts/sofia_pro_light-webfont.eot');
+    src: url('../../assets/fonts/sofia_pro_light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../assets/fonts/sofia_pro_light-webfont.woff2') format('woff2'),
+         url('../../assets/fonts/sofia_pro_light-webfont.woff') format('woff'),
+         url('../../assets/fonts/sofia_pro_light-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 @import "variables.scss";
+@import "fonctions.scss";
 
 @import "structure.scss";
 @import "parts/page-head.scss";
+@import "parts/home.scss";
+@import "parts/page-foot.scss";
+
+@import "parts/animations.scss";

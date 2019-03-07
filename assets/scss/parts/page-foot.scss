@@ -1,0 +1,61 @@
+footer {
+  padding-top: 5vh;
+  background-color: $color-graydark;
+  text-align: center;
+  color: $color-white;
+  .page-foot-box {
+    border-bottom: 2px solid rgba(255,255,255,0.25);
+    .page-foot-part-1 {
+      @include flex_row();
+      width: 25%;
+      margin: auto;
+      padding-bottom: 5vh;
+      ul {
+        @include flex_row();
+        align-items: center;
+        justify-content: center;
+        width: 50%;
+        flex: 1;
+      }
+      .social_networks {
+        li {
+          margin-right: 1vw;
+          img {
+            width: 20px;
+          }
+        }
+        li:last-child {
+          margin-right: 0;
+        }
+      }
+      .language {
+        li {
+          margin-right: 1vw;
+          img {
+            height: 20px;
+            width: auto;
+          }
+        }
+        li:last-child {
+          margin-right: 0;
+        }
+      }
+    }
+  }
+  .page-foot-part-2 {
+    width: 50%;
+    margin: auto;
+    padding: 2vh 0;
+    @include flex_row();
+    justify-content: center;
+    font-size: 1em;
+    p {
+      padding-right: 2vw;
+    }
+    a {
+      color: $color-white;
+      border-left: 1px solid $color-white;
+      padding-left: 2vw;
+    }
+  }
+}

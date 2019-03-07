@@ -86,6 +86,215 @@
 /************************************************************************/
 /******/ ({
 
+/***/ "./assets/fonts/blackberries-webfont.eot":
+/*!***********************************************!*\
+  !*** ./assets/fonts/blackberries-webfont.eot ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"blackberries-webfont.eot\";\n\n//# sourceURL=webpack:///./assets/fonts/blackberries-webfont.eot?");
+
+/***/ }),
+
+/***/ "./assets/fonts/blackberries-webfont.ttf":
+/*!***********************************************!*\
+  !*** ./assets/fonts/blackberries-webfont.ttf ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"blackberries-webfont.ttf\";\n\n//# sourceURL=webpack:///./assets/fonts/blackberries-webfont.ttf?");
+
+/***/ }),
+
+/***/ "./assets/fonts/blackberries-webfont.woff":
+/*!************************************************!*\
+  !*** ./assets/fonts/blackberries-webfont.woff ***!
+  \************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"blackberries-webfont.woff\";\n\n//# sourceURL=webpack:///./assets/fonts/blackberries-webfont.woff?");
+
+/***/ }),
+
+/***/ "./assets/fonts/blackberries-webfont.woff2":
+/*!*************************************************!*\
+  !*** ./assets/fonts/blackberries-webfont.woff2 ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"blackberries-webfont.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/blackberries-webfont.woff2?");
+
+/***/ }),
+
+/***/ "./assets/fonts/blackberries_bold-webfont.eot":
+/*!****************************************************!*\
+  !*** ./assets/fonts/blackberries_bold-webfont.eot ***!
+  \****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"blackberries_bold-webfont.eot\";\n\n//# sourceURL=webpack:///./assets/fonts/blackberries_bold-webfont.eot?");
+
+/***/ }),
+
+/***/ "./assets/fonts/blackberries_bold-webfont.ttf":
+/*!****************************************************!*\
+  !*** ./assets/fonts/blackberries_bold-webfont.ttf ***!
+  \****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"blackberries_bold-webfont.ttf\";\n\n//# sourceURL=webpack:///./assets/fonts/blackberries_bold-webfont.ttf?");
+
+/***/ }),
+
+/***/ "./assets/fonts/blackberries_bold-webfont.woff":
+/*!*****************************************************!*\
+  !*** ./assets/fonts/blackberries_bold-webfont.woff ***!
+  \*****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"blackberries_bold-webfont.woff\";\n\n//# sourceURL=webpack:///./assets/fonts/blackberries_bold-webfont.woff?");
+
+/***/ }),
+
+/***/ "./assets/fonts/blackberries_bold-webfont.woff2":
+/*!******************************************************!*\
+  !*** ./assets/fonts/blackberries_bold-webfont.woff2 ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"blackberries_bold-webfont.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/blackberries_bold-webfont.woff2?");
+
+/***/ }),
+
+/***/ "./assets/fonts/freebrushfont-webfont.eot":
+/*!************************************************!*\
+  !*** ./assets/fonts/freebrushfont-webfont.eot ***!
+  \************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"freebrushfont-webfont.eot\";\n\n//# sourceURL=webpack:///./assets/fonts/freebrushfont-webfont.eot?");
+
+/***/ }),
+
+/***/ "./assets/fonts/freebrushfont-webfont.ttf":
+/*!************************************************!*\
+  !*** ./assets/fonts/freebrushfont-webfont.ttf ***!
+  \************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"freebrushfont-webfont.ttf\";\n\n//# sourceURL=webpack:///./assets/fonts/freebrushfont-webfont.ttf?");
+
+/***/ }),
+
+/***/ "./assets/fonts/freebrushfont-webfont.woff":
+/*!*************************************************!*\
+  !*** ./assets/fonts/freebrushfont-webfont.woff ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"freebrushfont-webfont.woff\";\n\n//# sourceURL=webpack:///./assets/fonts/freebrushfont-webfont.woff?");
+
+/***/ }),
+
+/***/ "./assets/fonts/freebrushfont-webfont.woff2":
+/*!**************************************************!*\
+  !*** ./assets/fonts/freebrushfont-webfont.woff2 ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"freebrushfont-webfont.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/freebrushfont-webfont.woff2?");
+
+/***/ }),
+
+/***/ "./assets/fonts/sofia_pro_light-webfont.eot":
+/*!**************************************************!*\
+  !*** ./assets/fonts/sofia_pro_light-webfont.eot ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"sofia_pro_light-webfont.eot\";\n\n//# sourceURL=webpack:///./assets/fonts/sofia_pro_light-webfont.eot?");
+
+/***/ }),
+
+/***/ "./assets/fonts/sofia_pro_light-webfont.ttf":
+/*!**************************************************!*\
+  !*** ./assets/fonts/sofia_pro_light-webfont.ttf ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"sofia_pro_light-webfont.ttf\";\n\n//# sourceURL=webpack:///./assets/fonts/sofia_pro_light-webfont.ttf?");
+
+/***/ }),
+
+/***/ "./assets/fonts/sofia_pro_light-webfont.woff":
+/*!***************************************************!*\
+  !*** ./assets/fonts/sofia_pro_light-webfont.woff ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"sofia_pro_light-webfont.woff\";\n\n//# sourceURL=webpack:///./assets/fonts/sofia_pro_light-webfont.woff?");
+
+/***/ }),
+
+/***/ "./assets/fonts/sofia_pro_light-webfont.woff2":
+/*!****************************************************!*\
+  !*** ./assets/fonts/sofia_pro_light-webfont.woff2 ***!
+  \****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"sofia_pro_light-webfont.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/sofia_pro_light-webfont.woff2?");
+
+/***/ }),
+
+/***/ "./assets/images/gouts_picture.jpg":
+/*!*****************************************!*\
+  !*** ./assets/images/gouts_picture.jpg ***!
+  \*****************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"gouts_picture.jpg\";\n\n//# sourceURL=webpack:///./assets/images/gouts_picture.jpg?");
+
+/***/ }),
+
+/***/ "./assets/images/home_banner.png":
+/*!***************************************!*\
+  !*** ./assets/images/home_banner.png ***!
+  \***************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"home_banner.png\";\n\n//# sourceURL=webpack:///./assets/images/home_banner.png?");
+
+/***/ }),
+
+/***/ "./assets/images/valais_picture.jpg":
+/*!******************************************!*\
+  !*** ./assets/images/valais_picture.jpg ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__.p + \"valais_picture.jpg\";\n\n//# sourceURL=webpack:///./assets/images/valais_picture.jpg?");
+
+/***/ }),
+
 /***/ "./assets/js/index.js":
 /*!****************************!*\
   !*** ./assets/js/index.js ***!
@@ -115,7 +324,7 @@ eval("// style-loader: Adds some css to the DOM by adding a <style> tag\n\n// lo
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/lib/css-base.js */ \"./node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.i, \"* {\\n  margin: 0;\\n  padding: 0;\\n  border: none;\\n  font-size: 100%; }\\n\\nhtml {\\n  font-size: 15px; }\\n\\nbody {\\n  background-color: #f5f5f5; }\\n\\nul, li {\\n  list-style-type: none; }\\n\\na {\\n  text-decoration: none; }\\n\\nheader {\\n  width: 96vw;\\n  padding: 1vh 2vw; }\\n  header .menu_bar {\\n    position: fixed;\\n    z-index: 1001;\\n    width: 96%;\\n    display: flex;\\n    flex-direction: row;\\n    align-items: center;\\n    justify-content: space-between; }\\n    header .menu_bar .block_logo img {\\n      width: 10vw;\\n      height: auto; }\\n    header .menu_bar .block_right {\\n      display: flex;\\n      flex-direction: row;\\n      align-items: center; }\\n      header .menu_bar .block_right .block_panier {\\n        display: flex;\\n        flex-direction: row;\\n        align-items: center;\\n        margin-right: 2vw; }\\n      header .menu_bar .block_right input {\\n        display: none; }\\n      header .menu_bar .block_right input[type=checkbox]:checked ~ .menu_overlay {\\n        background-color: red; }\\n      header .menu_bar .block_right .menu_icon .line {\\n        display: block;\\n        background-color: #000000;\\n        height: 3px;\\n        width: 30px;\\n        margin-bottom: 8px; }\\n      header .menu_bar .block_right .menu_icon .line:last-child {\\n        margin-bottom: 0; }\\n      header .menu_bar .block_right .menu_icon:hover {\\n        cursor: pointer; }\\n  header .menu_overlay {\\n    width: 100vw;\\n    height: 100vh;\\n    position: fixed;\\n    top: 0;\\n    right: 0;\\n    z-index: 1000; }\\n\", \"\"]);\n\n// exports\n\n\n//# sourceURL=webpack:///./assets/scss/global.scss?./node_modules/css-loader!./node_modules/postcss-loader/src??ref--6-2!./node_modules/sass-loader/lib/loader.js!./node_modules/style-resources-loader/lib??ref--6-4");
+eval("var escape = __webpack_require__(/*! ../../node_modules/css-loader/lib/url/escape.js */ \"./node_modules/css-loader/lib/url/escape.js\");\nexports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/lib/css-base.js */ \"./node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.i, \"@font-face {\\n  font-family: 'blackberriesbold';\\n  src: url(\" + escape(__webpack_require__(/*! ../../assets/fonts/blackberries_bold-webfont.eot */ \"./assets/fonts/blackberries_bold-webfont.eot\")) + \");\\n  src: url(\" + escape(__webpack_require__(/*! ../../assets/fonts/blackberries_bold-webfont.eot */ \"./assets/fonts/blackberries_bold-webfont.eot\")) + \"?#iefix) format(\\\"embedded-opentype\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/blackberries_bold-webfont.woff2 */ \"./assets/fonts/blackberries_bold-webfont.woff2\")) + \") format(\\\"woff2\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/blackberries_bold-webfont.woff */ \"./assets/fonts/blackberries_bold-webfont.woff\")) + \") format(\\\"woff\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/blackberries_bold-webfont.ttf */ \"./assets/fonts/blackberries_bold-webfont.ttf\")) + \") format(\\\"truetype\\\");\\n  font-weight: normal;\\n  font-style: normal; }\\n\\n@font-face {\\n  font-family: 'blackberriesregular';\\n  src: url(\" + escape(__webpack_require__(/*! ../../assets/fonts/blackberries-webfont.eot */ \"./assets/fonts/blackberries-webfont.eot\")) + \");\\n  src: url(\" + escape(__webpack_require__(/*! ../../assets/fonts/blackberries-webfont.eot */ \"./assets/fonts/blackberries-webfont.eot\")) + \"?#iefix) format(\\\"embedded-opentype\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/blackberries-webfont.woff2 */ \"./assets/fonts/blackberries-webfont.woff2\")) + \") format(\\\"woff2\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/blackberries-webfont.woff */ \"./assets/fonts/blackberries-webfont.woff\")) + \") format(\\\"woff\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/blackberries-webfont.ttf */ \"./assets/fonts/blackberries-webfont.ttf\")) + \") format(\\\"truetype\\\");\\n  font-weight: normal;\\n  font-style: normal; }\\n\\n@font-face {\\n  font-family: 'free_brushfontregular';\\n  src: url(\" + escape(__webpack_require__(/*! ../../assets/fonts/freebrushfont-webfont.eot */ \"./assets/fonts/freebrushfont-webfont.eot\")) + \");\\n  src: url(\" + escape(__webpack_require__(/*! ../../assets/fonts/freebrushfont-webfont.eot */ \"./assets/fonts/freebrushfont-webfont.eot\")) + \"?#iefix) format(\\\"embedded-opentype\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/freebrushfont-webfont.woff2 */ \"./assets/fonts/freebrushfont-webfont.woff2\")) + \") format(\\\"woff2\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/freebrushfont-webfont.woff */ \"./assets/fonts/freebrushfont-webfont.woff\")) + \") format(\\\"woff\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/freebrushfont-webfont.ttf */ \"./assets/fonts/freebrushfont-webfont.ttf\")) + \") format(\\\"truetype\\\");\\n  font-weight: normal;\\n  font-style: normal; }\\n\\n@font-face {\\n  font-family: 'sofia_prolight';\\n  src: url(\" + escape(__webpack_require__(/*! ../../assets/fonts/sofia_pro_light-webfont.eot */ \"./assets/fonts/sofia_pro_light-webfont.eot\")) + \");\\n  src: url(\" + escape(__webpack_require__(/*! ../../assets/fonts/sofia_pro_light-webfont.eot */ \"./assets/fonts/sofia_pro_light-webfont.eot\")) + \"?#iefix) format(\\\"embedded-opentype\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/sofia_pro_light-webfont.woff2 */ \"./assets/fonts/sofia_pro_light-webfont.woff2\")) + \") format(\\\"woff2\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/sofia_pro_light-webfont.woff */ \"./assets/fonts/sofia_pro_light-webfont.woff\")) + \") format(\\\"woff\\\"), url(\" + escape(__webpack_require__(/*! ../../assets/fonts/sofia_pro_light-webfont.ttf */ \"./assets/fonts/sofia_pro_light-webfont.ttf\")) + \") format(\\\"truetype\\\");\\n  font-weight: normal;\\n  font-style: normal; }\\n\\n* {\\n  margin: 0;\\n  padding: 0;\\n  border: none;\\n  box-sizing: border-box; }\\n\\nhtml {\\n  font-size: 15px; }\\n\\nbody {\\n  font-family: \\\"sofia_prolight\\\";\\n  font-size: 100%;\\n  background-color: #f5f5f5; }\\n\\nul, li {\\n  list-style-type: none; }\\n\\na {\\n  text-decoration: none; }\\n\\n.wrapper {\\n  width: 100vw;\\n  height: auto; }\\n\\nh1 {\\n  font-family: \\\"blackberriesbold\\\";\\n  font-size: 4em;\\n  text-transform: uppercase; }\\n\\nheader {\\n  position: fixed;\\n  padding: 1vh 2vw;\\n  width: 100%;\\n  z-index: 1001; }\\n  header .menu_bar {\\n    display: flex;\\n    flex-direction: row;\\n    align-items: center;\\n    justify-content: space-between; }\\n    header .menu_bar .block_logo img {\\n      width: 10vw;\\n      height: auto; }\\n    header .menu_bar .block_right {\\n      display: flex;\\n      flex-direction: row;\\n      align-items: center; }\\n      header .menu_bar .block_right .block_panier {\\n        display: flex;\\n        flex-direction: row;\\n        align-items: center;\\n        margin-right: 2vw; }\\n      header .menu_bar .block_right input {\\n        display: none; }\\n      header .menu_bar .block_right input[type=checkbox]:checked ~ .menu_overlay {\\n        background-color: red; }\\n      header .menu_bar .block_right .menu_icon .line {\\n        display: block;\\n        background-color: #000000;\\n        height: 3px;\\n        width: 30px;\\n        margin-bottom: 8px; }\\n      header .menu_bar .block_right .menu_icon .line:last-child {\\n        margin-bottom: 0; }\\n      header .menu_bar .block_right .menu_icon:hover {\\n        cursor: pointer; }\\n  header .menu_overlay {\\n    display: none;\\n    width: 100vw;\\n    height: 100vh;\\n    position: fixed;\\n    top: 0;\\n    right: 0;\\n    z-index: 1000; }\\n\\n.home_banner {\\n  position: relative;\\n  width: 100%;\\n  height: 75vh; }\\n  .home_banner .home_banner_can {\\n    background: url(\" + escape(__webpack_require__(/*! ../../assets/images/home_banner.png */ \"./assets/images/home_banner.png\")) + \") center no-repeat;\\n    background-size: cover;\\n    width: 100%;\\n    height: 125%;\\n    -webkit-animation-duration: 1.5s;\\n            animation-duration: 1.5s;\\n    -webkit-animation-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);\\n            animation-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);\\n    -webkit-animation-name: slidein;\\n            animation-name: slidein;\\n    -webkit-animation-fill-mode: backwards;\\n            animation-fill-mode: backwards; }\\n  .home_banner .home_bubble {\\n    position: absolute;\\n    top: 0;\\n    left: 0;\\n    width: 100%;\\n    height: 100%; }\\n    .home_banner .home_bubble img {\\n      position: absolute;\\n      width: 20%;\\n      height: auto;\\n      top: 8vh;\\n      right: 25vw;\\n      -webkit-animation-duration: 1s;\\n              animation-duration: 1s;\\n      -webkit-animation-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);\\n              animation-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);\\n      -webkit-animation-name: bubble;\\n              animation-name: bubble;\\n      -webkit-animation-fill-mode: backwards;\\n              animation-fill-mode: backwards;\\n      -webkit-animation-delay: 800ms;\\n              animation-delay: 800ms; }\\n\\n.gouts {\\n  display: flex;\\n  flex-direction: row;\\n  height: 75vh;\\n  width: 100%;\\n  text-align: center;\\n  color: #ffffff; }\\n  .gouts div {\\n    display: flex;\\n    flex-direction: column;\\n    justify-content: center;\\n    width: 50%;\\n    height: 100%; }\\n  .gouts .gouts_infos {\\n    background-color: #f27531; }\\n    .gouts .gouts_infos .fruits {\\n      width: 50%;\\n      height: auto;\\n      display: flex;\\n      flex-direction: row;\\n      margin-left: auto;\\n      margin-right: auto;\\n      margin-top: 3vh; }\\n      .gouts .gouts_infos .fruits div {\\n        display: flex;\\n        flex-direction: column;\\n        align-items: center; }\\n        .gouts .gouts_infos .fruits div img {\\n          width: 75%;\\n          height: auto; }\\n  .gouts .gouts_picture {\\n    background: url(\" + escape(__webpack_require__(/*! ../../assets/images/gouts_picture.jpg */ \"./assets/images/gouts_picture.jpg\")) + \") center no-repeat;\\n    background-size: cover; }\\n  .gouts .pink-title {\\n    font-style: normal;\\n    font-size: 1.5em;\\n    color: #e8193c; }\\n\\n.valais {\\n  display: flex;\\n  flex-direction: row;\\n  height: 75vh;\\n  width: 100%;\\n  text-align: center;\\n  color: #ffffff; }\\n  .valais div {\\n    display: flex;\\n    flex-direction: column;\\n    justify-content: center;\\n    width: 50%;\\n    height: 100%; }\\n  .valais .valais_picture {\\n    background: url(\" + escape(__webpack_require__(/*! ../../assets/images/valais_picture.jpg */ \"./assets/images/valais_picture.jpg\")) + \") center no-repeat;\\n    background-size: cover; }\\n  .valais .valais_infos {\\n    background-color: #e8193c; }\\n  .valais .orange-title {\\n    font-style: normal;\\n    font-size: 1.5em;\\n    color: #f27531; }\\n\\nfooter {\\n  padding-top: 5vh;\\n  background-color: #242424;\\n  text-align: center;\\n  color: #ffffff; }\\n  footer .page-foot-box {\\n    border-bottom: 2px solid rgba(255, 255, 255, 0.25); }\\n    footer .page-foot-box .page-foot-part-1 {\\n      display: flex;\\n      flex-direction: row;\\n      width: 25%;\\n      margin: auto;\\n      padding-bottom: 5vh; }\\n      footer .page-foot-box .page-foot-part-1 ul {\\n        display: flex;\\n        flex-direction: row;\\n        align-items: center;\\n        justify-content: center;\\n        width: 50%;\\n        flex: 1; }\\n      footer .page-foot-box .page-foot-part-1 .social_networks li {\\n        margin-right: 1vw; }\\n        footer .page-foot-box .page-foot-part-1 .social_networks li img {\\n          width: 20px; }\\n      footer .page-foot-box .page-foot-part-1 .social_networks li:last-child {\\n        margin-right: 0; }\\n      footer .page-foot-box .page-foot-part-1 .language li {\\n        margin-right: 1vw; }\\n        footer .page-foot-box .page-foot-part-1 .language li img {\\n          height: 20px;\\n          width: auto; }\\n      footer .page-foot-box .page-foot-part-1 .language li:last-child {\\n        margin-right: 0; }\\n  footer .page-foot-part-2 {\\n    width: 50%;\\n    margin: auto;\\n    padding: 2vh 0;\\n    display: flex;\\n    flex-direction: row;\\n    justify-content: center;\\n    font-size: 1em; }\\n    footer .page-foot-part-2 p {\\n      padding-right: 2vw; }\\n    footer .page-foot-part-2 a {\\n      color: #ffffff;\\n      border-left: 1px solid #ffffff;\\n      padding-left: 2vw; }\\n\\n@-webkit-keyframes slidein {\\n  from {\\n    -webkit-transform: translateY(-200px);\\n            transform: translateY(-200px);\\n    opacity: 0; }\\n  to {\\n    -webkit-transform: translateY(0);\\n            transform: translateY(0);\\n    opacity: 1; } }\\n\\n@keyframes slidein {\\n  from {\\n    -webkit-transform: translateY(-200px);\\n            transform: translateY(-200px);\\n    opacity: 0; }\\n  to {\\n    -webkit-transform: translateY(0);\\n            transform: translateY(0);\\n    opacity: 1; } }\\n\\n@-webkit-keyframes bubble {\\n  from {\\n    -webkit-transform: rotateZ(0) scale(0);\\n            transform: rotateZ(0) scale(0);\\n    opacity: 0; }\\n  33% {\\n    -webkit-transform: rotateZ(25deg) scale(1.1);\\n            transform: rotateZ(25deg) scale(1.1);\\n    opacity: 1; }\\n  69% {\\n    -webkit-transform: rotateZ(-10deg) scale(0.9);\\n            transform: rotateZ(-10deg) scale(0.9); }\\n  to {\\n    -webkit-transform: rotateZ(0) scale(1);\\n            transform: rotateZ(0) scale(1); } }\\n\\n@keyframes bubble {\\n  from {\\n    -webkit-transform: rotateZ(0) scale(0);\\n            transform: rotateZ(0) scale(0);\\n    opacity: 0; }\\n  33% {\\n    -webkit-transform: rotateZ(25deg) scale(1.1);\\n            transform: rotateZ(25deg) scale(1.1);\\n    opacity: 1; }\\n  69% {\\n    -webkit-transform: rotateZ(-10deg) scale(0.9);\\n            transform: rotateZ(-10deg) scale(0.9); }\\n  to {\\n    -webkit-transform: rotateZ(0) scale(1);\\n            transform: rotateZ(0) scale(1); } }\\n\", \"\"]);\n\n// exports\n\n\n//# sourceURL=webpack:///./assets/scss/global.scss?./node_modules/css-loader!./node_modules/postcss-loader/src??ref--6-2!./node_modules/sass-loader/lib/loader.js!./node_modules/style-resources-loader/lib??ref--6-4");
 
 /***/ }),
 
@@ -127,6 +336,17 @@ eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-
 /***/ (function(module, exports) {
 
 eval("/*\n\tMIT License http://www.opensource.org/licenses/mit-license.php\n\tAuthor Tobias Koppers @sokra\n*/\n// css base code, injected by the css-loader\nmodule.exports = function(useSourceMap) {\n\tvar list = [];\n\n\t// return the list of modules as css string\n\tlist.toString = function toString() {\n\t\treturn this.map(function (item) {\n\t\t\tvar content = cssWithMappingToString(item, useSourceMap);\n\t\t\tif(item[2]) {\n\t\t\t\treturn \"@media \" + item[2] + \"{\" + content + \"}\";\n\t\t\t} else {\n\t\t\t\treturn content;\n\t\t\t}\n\t\t}).join(\"\");\n\t};\n\n\t// import a list of modules into the list\n\tlist.i = function(modules, mediaQuery) {\n\t\tif(typeof modules === \"string\")\n\t\t\tmodules = [[null, modules, \"\"]];\n\t\tvar alreadyImportedModules = {};\n\t\tfor(var i = 0; i < this.length; i++) {\n\t\t\tvar id = this[i][0];\n\t\t\tif(typeof id === \"number\")\n\t\t\t\talreadyImportedModules[id] = true;\n\t\t}\n\t\tfor(i = 0; i < modules.length; i++) {\n\t\t\tvar item = modules[i];\n\t\t\t// skip already imported module\n\t\t\t// this implementation is not 100% perfect for weird media query combinations\n\t\t\t//  when a module is imported multiple times with different media queries.\n\t\t\t//  I hope this will never occur (Hey this way we have smaller bundles)\n\t\t\tif(typeof item[0] !== \"number\" || !alreadyImportedModules[item[0]]) {\n\t\t\t\tif(mediaQuery && !item[2]) {\n\t\t\t\t\titem[2] = mediaQuery;\n\t\t\t\t} else if(mediaQuery) {\n\t\t\t\t\titem[2] = \"(\" + item[2] + \") and (\" + mediaQuery + \")\";\n\t\t\t\t}\n\t\t\t\tlist.push(item);\n\t\t\t}\n\t\t}\n\t};\n\treturn list;\n};\n\nfunction cssWithMappingToString(item, useSourceMap) {\n\tvar content = item[1] || '';\n\tvar cssMapping = item[3];\n\tif (!cssMapping) {\n\t\treturn content;\n\t}\n\n\tif (useSourceMap && typeof btoa === 'function') {\n\t\tvar sourceMapping = toComment(cssMapping);\n\t\tvar sourceURLs = cssMapping.sources.map(function (source) {\n\t\t\treturn '/*# sourceURL=' + cssMapping.sourceRoot + source + ' */'\n\t\t});\n\n\t\treturn [content].concat(sourceURLs).concat([sourceMapping]).join('\\n');\n\t}\n\n\treturn [content].join('\\n');\n}\n\n// Adapted from convert-source-map (MIT)\nfunction toComment(sourceMap) {\n\t// eslint-disable-next-line no-undef\n\tvar base64 = btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap))));\n\tvar data = 'sourceMappingURL=data:application/json;charset=utf-8;base64,' + base64;\n\n\treturn '/*# ' + data + ' */';\n}\n\n\n//# sourceURL=webpack:///./node_modules/css-loader/lib/css-base.js?");
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/lib/url/escape.js":
+/*!***************************************************!*\
+  !*** ./node_modules/css-loader/lib/url/escape.js ***!
+  \***************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = function escape(url) {\n    if (typeof url !== 'string') {\n        return url\n    }\n    // If url is already wrapped in quotes, remove them\n    if (/^['\"].*['\"]$/.test(url)) {\n        url = url.slice(1, -1);\n    }\n    // Should url be wrapped?\n    // See https://drafts.csswg.org/css-values-3/#urls\n    if (/[\"'() \\t\\n]/.test(url)) {\n        return '\"' + url.replace(/\"/g, '\\\\\"').replace(/\\n/g, '\\\\n') + '\"'\n    }\n\n    return url\n}\n\n\n//# sourceURL=webpack:///./node_modules/css-loader/lib/url/escape.js?");
 
 /***/ }),
 

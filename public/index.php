@@ -12,10 +12,12 @@
         <?php include 'partials/page-head.php';  ?>
       </header>
 
-      <main>
+      <main class="content">
+        <?php include 'partials/home.php';  ?>
       </main>
 
       <footer>
+        <?php include 'partials/page-foot.php';  ?>
       </footer>
 
     </div>

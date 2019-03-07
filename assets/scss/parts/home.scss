@@ -1,0 +1,102 @@
+.home_banner {
+  position: relative;
+  width: 100%;
+  height: 75vh;
+  .home_banner_can {
+    background: url('../../assets/images/home_banner.png') center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 125%;
+    animation-duration: 1.5s;
+    animation-timing-function: cubic-bezier(0.25,0.1,0.25,1);
+    animation-name: slidein;
+    animation-fill-mode: backwards;
+  }
+  .home_bubble {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    img {
+      position: absolute;
+      width: 20%;
+      height: auto;
+      top: 8vh;
+      right: 25vw;
+      animation-duration: 1s;
+      animation-timing-function: cubic-bezier(0.25,0.1,0.25,1);
+      animation-name: bubble;
+      animation-fill-mode: backwards;
+      animation-delay: 800ms;
+    }
+  }
+}
+
+.gouts {
+  @include flex_row();
+  height: 75vh;
+  width: 100%;
+  text-align: center;
+  color: $color-white;
+  div {
+    @include flex_column();
+    justify-content: center;
+    width: 50%;
+    height: 100%;
+  }
+  .gouts_infos {
+    background-color: $color-orange;
+    .fruits {
+      width: 50%;
+      height: auto;
+      @include flex_row();
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 3vh;
+      div {
+        @include flex_column();
+        align-items: center;
+        img {
+          width: 75%;
+          height: auto;
+        }
+      }
+    }
+  }
+  .gouts_picture {
+    background: url('../../assets/images/gouts_picture.jpg') center no-repeat;
+    background-size: cover;
+  }
+  .pink-title {
+    font-style: normal;
+    font-size: 1.5em;
+    color: $color-pink;
+  }
+}
+
+.valais {
+  @include flex_row();
+  height: 75vh;
+  width: 100%;
+  text-align: center;
+  color: $color-white;
+  div {
+    @include flex_column();
+    justify-content: center;
+    width: 50%;
+    height: 100%;
+  }
+  .valais_picture {
+    background: url('../../assets/images/valais_picture.jpg') center no-repeat;
+    background-size: cover;
+  }
+  .valais_infos {
+    background-color: $color-pink;
+  }
+  .orange-title {
+    font-style: normal;
+    font-size: 1.5em;
+    color: $color-orange;
+  }
+}
