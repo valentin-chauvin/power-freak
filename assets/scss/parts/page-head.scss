@@ -50,6 +50,7 @@ header {
   }
   .menu_overlay {
     display: none;
+    background-color: $color-greylight;
     width: 100vw;
     height: 100vh;
     position: fixed;

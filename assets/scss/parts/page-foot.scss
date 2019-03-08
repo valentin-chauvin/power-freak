@@ -10,6 +10,9 @@ footer {
       width: 25%;
       margin: auto;
       padding-bottom: 5vh;
+      @media screen and (max-width: 1200px) {
+        @include flex-column();
+      }
       ul {
         @include flex_row();
         align-items: center;
@@ -26,6 +29,9 @@ footer {
         }
         li:last-child {
           margin-right: 0;
+        }
+        @media screen and (max-width: 1200px) {
+          margin-bottom: 2vh;
         }
       }
       .language {
