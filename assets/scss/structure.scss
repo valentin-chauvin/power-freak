@@ -28,6 +28,11 @@ a {
   height: auto;
 }
 
+.container {
+  width: 100vw;
+  padding: 0 8vw;
+}
+
 h1 {
   font-family: $font-special;
   font-size: 4em;
@@ -35,4 +40,25 @@ h1 {
   @media screen and (max-width: 1200px) {
     font-size: 2em;
   }
+}
+
+h2 {
+  font-family: $font-title;
+  font-size: 4em;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: $font-special;
+  font-size: 3em;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+h4 {
+  font-family: $font-special;
+  font-size: 4em;
+  text-transform: uppercase;
+  font-weight: normal;
 }

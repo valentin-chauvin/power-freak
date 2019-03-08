@@ -45,6 +45,17 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'sofia_problack';
+    src: url('../../assets/fonts/SofiaProBlack.eot');
+    src: url('../../assets/fonts/SofiaProBlack.eot?#iefix') format('embedded-opentype'),
+        url('../../assets/fonts/SofiaProBlack.woff2') format('woff2'),
+        url('../../assets/fonts/SofiaProBlack.woff') format('woff'),
+        url('../../assets/fonts/SofiaProBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
 @import "variables.scss";
 @import "fonctions.scss";
 
