@@ -77,7 +77,7 @@
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/power-freak/public/build/";
+/******/ 	__webpack_require__.p = "/valentin_project_power_freak_website/public/build/";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
@@ -434,7 +434,7 @@ eval("\n/**\n * When source maps are enabled, `style-loader` uses a link element
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("__webpack_require__(/*! C:\\Users\\Utilisateur\\web\\power-freak\\assets\\js\\index.js */\"./assets/js/index.js\");\nmodule.exports = __webpack_require__(/*! C:\\Users\\Utilisateur\\web\\power-freak\\assets\\scss\\global.scss */\"./assets/scss/global.scss\");\n\n\n//# sourceURL=webpack:///multi_./assets/js/index.js_./assets/scss/global.scss?");
+eval("__webpack_require__(/*! C:\\Users\\Utilisateur\\web\\valentin_project_power_freak_website\\assets\\js\\index.js */\"./assets/js/index.js\");\nmodule.exports = __webpack_require__(/*! C:\\Users\\Utilisateur\\web\\valentin_project_power_freak_website\\assets\\scss\\global.scss */\"./assets/scss/global.scss\");\n\n\n//# sourceURL=webpack:///multi_./assets/js/index.js_./assets/scss/global.scss?");
 
 /***/ })
 
