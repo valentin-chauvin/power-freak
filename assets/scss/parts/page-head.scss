@@ -25,37 +25,6 @@ header {
         align-items: center;
         margin-right: 2vw;
       }
-      input {
-        display: none;
-      }
-      input[type=checkbox]:checked ~ .menu_overlay {
-         background-color: red;
-      }
-      .menu_icon {
-        .line {
-          display: block;
-          background-color: $color-black;
-          height: 3px;
-          width: 30px;
-          margin-bottom: 8px;
-        }
-        .line:last-child {
-          margin-bottom: 0;
-        }
-      }
-      .menu_icon:hover {
-        cursor: pointer;
-      }
     }
-  }
-  .menu_overlay {
-    display: none;
-    background-color: $color-greylight;
-    width: 100vw;
-    height: 100vh;
-    position: fixed;
-    top: 0;
-    right: 0;
-    z-index: 1000;
   }
 }

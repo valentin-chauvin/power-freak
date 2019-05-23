@@ -126,6 +126,9 @@
     summary::-webkit-details-marker {
       display: none;
     }
+    summary:focus {
+      outline: none;
+    }
     section {
       width: 75%;
       margin-bottom: 5vh;
