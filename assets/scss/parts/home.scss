@@ -1,7 +1,12 @@
 .home_banner {
+  background: url('../../assets/images/home_banner_mountain.png') center no-repeat;
+  background-size: cover;
   position: relative;
   width: 100%;
   height: 75vh;
+  z-index: +1;
+  animation-name: homebannersplash;
+  animation-duration: 900ms;
   .home_banner_can {
     background: url('../../assets/images/home_banner.png') center no-repeat;
     background-size: cover;
@@ -41,6 +46,73 @@
   }
 }
 
+.home_recyclage {
+  @include flex_row();
+  height: 75vh;
+  width: 100%;
+  text-align: center;
+  color: $color-white;
+  @media screen and (max-width: 1200px) {
+    @include flex_column();
+  }
+  div {
+    @include flex_column();
+    justify-content: center;
+    width: 50%;
+    height: 100%;
+    @media screen and (max-width: 1200px) {
+      width: 100%;
+    }
+  }
+  .home_recyclage_infos {
+    background-color: $color-green;
+    position: relative;
+    .home-recyclage-button {
+      background-color: $color-white;
+      color: $color-pink;
+      font-family: 'free_brushfontregular';
+      font-size: 2.5em;
+      width: 33%;
+      margin: 0 auto;
+      padding: 15px;
+      border-radius: 60px;
+      margin-top: 5%;
+      transition: all 0.2s ease-in-out;
+      @media screen and (max-width: 1200px) {
+        font-size: 1.8em;
+      }
+    }
+    .home-recyclage-button:hover {
+      background-color: $color-pink;
+      color: $color-white;
+    }
+  }
+  .home_recyclage_infos::after {
+    content: '';
+    background: url('../../assets/images/icon_splash_green.svg') center no-repeat;
+    background-size: cover;
+    width: 175px;
+    height: 175px;
+    position: absolute;
+    top: -28%;
+    left: 50%;
+    z-index: 999999;
+    display: none;
+    @media screen and (max-width: 1200px) {
+      display: block;
+    }
+  }
+  .home_recyclage_picture {
+    background: url('../../assets/images/image_home_recyclage.png') center no-repeat;
+    background-size: cover;
+  }
+  .pink-title {
+    font-style: normal;
+    font-size: 1.5em;
+    color: $color-pink;
+  }
+}
+
 .gouts {
   @include flex_row();
   height: 75vh;
@@ -61,6 +133,10 @@
   }
   .gouts_infos {
     background-color: $color-orange;
+    position: relative;
+    @media screen and (max-width: 1200px) {
+      order: 2;
+    }
     .fruits {
       width: 50%;
       height: auto;
@@ -78,9 +154,27 @@
       }
     }
   }
+  .gouts_infos::after {
+    content: '';
+    background: url('../../assets/images/icon_splash_orange.svg') center no-repeat;
+    background-size: cover;
+    width: 175px;
+    height: 175px;
+    position: absolute;
+    top: -28%;
+    left: 50%;
+    z-index: 999999;
+    display: none;
+    @media screen and (max-width: 1200px) {
+      display: block;
+    }
+  }
   .gouts_picture {
     background: url('../../assets/images/gouts_picture.jpg') center no-repeat;
     background-size: cover;
+    @media screen and (max-width: 1200px) {
+      order: 1;
+    }
   }
   .pink-title {
     font-style: normal;
@@ -113,6 +207,22 @@
   }
   .valais_infos {
     background-color: $color-pink;
+    position: relative;
+  }
+  .valais_infos::after {
+    content: '';
+    background: url('../../assets/images/icon_splash_pink.svg') center no-repeat;
+    background-size: cover;
+    width: 175px;
+    height: 175px;
+    position: absolute;
+    top: -28%;
+    left: 50%;
+    z-index: 999999;
+    display: none;
+    @media screen and (max-width: 1200px) {
+      display: block;
+    }
   }
   .orange-title {
     font-style: normal;

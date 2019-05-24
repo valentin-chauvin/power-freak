@@ -1,25 +1,3 @@
-.recyclage_banner {
-  background: url("../../assets/images/mount_cervin.jpg") center no-repeat;
-  background-size: cover;
-  width: 100%;
-  height: 75vh;
-  div {
-    @include flex_row();
-    align-items: center;
-    justify-content: center;
-    background-color: rgba(242,117,49,0.75);
-    height: 100%;
-    width: 100%;
-    h2 {
-      color: $color-white;
-      em {
-        font-family: $font-special;
-        font-size: 2em;
-      }
-    }
-  }
-}
-
 .block_julius {
   position: relative;
   padding: 8vh 8vw;
@@ -28,19 +6,35 @@
   justify-content: center;
   width: 100%;
   margin-bottom: 5vh;
+  @media screen and (max-width: 1200px) {
+    @include flex_column();
+  }
   .julius_portrait {
     width: 33%;
     margin-right: 5vw;
+    animation-name: juliuspop;
+    animation-duration: 800ms;
+    animation-delay: 100ms;
+    animation-fill-mode: backwards;
+    @media screen and (max-width: 1200px) {
+      width: 100%;
+      margin-bottom: 10%;
+      margin-right: 0;
+    }
   }
   h3 {
-    color: $color-orange;
+    color: $color-pink;
     text-align: center;
     position: relative;
+    animation-name: juliuscitation;
+    animation-duration: 2s;
+    animation-delay: 500ms;
+    animation-fill-mode: backwards;
   }
   h3:after {
     content:'Julius Robert Von Mayer';
     font-family: $font-body;
-    font-size: 0.4em;
+    font-size: 0.5em;
     text-transform: none;
     color: $color-black;
     position: absolute;
@@ -53,15 +47,30 @@
     z-index: -1;
     opacity: 0.05;
     right: 25%;
+    animation-name: juliusquotes;
+    animation-duration: 2s;
+    animation-delay: 500ms;
+    animation-fill-mode: backwards;
+    @media screen and (max-width: 1200px) {
+      right: 50%;
+      top: 75%;
+    }
   }
 }
 
 .recyclage_intro {
   width: 50%;
   margin: auto;
+  @media screen and (max-width: 1200px) {
+    width: 100%;
+  }
   p {
-    font-size: 1.1em;
+    font-size: 1.5em;
     line-height: 3vh;
+    animation-name: slidein;
+    animation-duration: 2s;
+    animation-delay: 1500ms;
+    animation-fill-mode: backwards;
   }
 }
 
@@ -71,8 +80,15 @@
   .recyclage_section_1_part_1 {
     @include flex_row();
     align-items: center;
+    @media screen and (max-width: 1200px) {
+      @include flex_column();
+    }
     section {
       width: 50%;
+      @media screen and (max-width: 1200px) {
+        width: 100%;
+        order: 2;
+      }
       h4 {
         color: $color-orange;
         position: relative;
@@ -89,7 +105,7 @@
         opacity: 0.15;
       }
       p {
-        font-size: 1.1em;
+        font-size: 1.5em;
         line-height: 3vh;
         margin-top: 7vh;
       }
@@ -99,16 +115,24 @@
       align-items: center;
       justify-content: center;
       width: 50%;
+      @media screen and (max-width: 1200px) {
+        width: 100%;
+        order: 1;
+      }
       img {
-        width: 50%;
+        width: 100%;
+        height: auto;
       }
     }
   }
   h3 {
     width: 50%;
+    @media screen and (max-width: 1200px) {
+      width: 100%;
+    }
     margin: auto;
     margin-top: 8vh;
-    color: $color-orange;
+    color: $color-green;
     text-align: center;
   }
 
@@ -118,7 +142,7 @@
       border: none;
       font-family: $font-body-black;
       font-size: 1.5em;
-      color: $color-orange;
+      color: $color-green;
       cursor: pointer;
       text-align: center;
       margin-bottom: 5vh;
@@ -132,12 +156,15 @@
     section {
       width: 75%;
       margin-bottom: 5vh;
+      @media screen and (max-width: 1200px) {
+        width: 100%;
+      }
       h4 {
-        color: $color-orange;
+        color: $color-green;
         margin-bottom: 2vh;
       }
       p {
-        font-size: 1.1em;
+        font-size: 1.5em;
         line-height: 3vh;
       }
     }
@@ -150,8 +177,15 @@
   .recyclage_section_2_part_1 {
     @include flex_row();
     align-items: center;
+    @media screen and (max-width: 1200px) {
+      @include flex_column();
+    }
     section {
       width: 50%;
+      @media screen and (max-width: 1200px) {
+        width: 100%;
+        order: 2;
+      }
       h4 {
         color: $color-orange;
         position: relative;
@@ -164,13 +198,13 @@
         color: $color-black;
         position: absolute;
         left: 0;
-        bottom: -3vh;
+        bottom: -7vh;
         opacity: 0.15;
       }
       p {
-        font-size: 1.1em;
+        font-size: 1.5em;
         line-height: 3vh;
-        margin-top: 7vh;
+        margin-top: 11vh;
       }
     }
     .recyclage_section_2_image {
@@ -178,6 +212,11 @@
       align-items: center;
       justify-content: center;
       width: 50%;
+      @media screen and (max-width: 1200px) {
+        width: 100%;
+        order: 1;
+        margin-bottom: 10%;
+      }
       img {
         width: 50%;
       }
@@ -185,9 +224,12 @@
   }
   h3 {
     width: 50%;
+    @media screen and (max-width: 1200px) {
+      width: 100%;
+    }
     margin: auto;
     margin-top: 8vh;
-    color: $color-orange;
+    color: $color-pink;
     text-align: center;
   }
 
@@ -197,7 +239,7 @@
       border: none;
       font-family: $font-body-black;
       font-size: 1.5em;
-      color: $color-orange;
+      color: $color-pink;
       cursor: pointer;
       text-align: center;
       margin-bottom: 5vh;
@@ -205,15 +247,21 @@
     summary::-webkit-details-marker {
       display: none;
     }
+    summary:focus {
+      outline: none;
+    }
     section {
       width: 75%;
       margin-bottom: 5vh;
+      @media screen and (max-width: 1200px) {
+        width: 100%;
+      }
       h4 {
-        color: $color-orange;
+        color: $color-pink;
         margin-bottom: 2vh;
       }
       p {
-        font-size: 1.1em;
+        font-size: 1.5em;
         line-height: 3vh;
       }
     }

@@ -6,6 +6,15 @@
   </div>
 </div>
 
+<div class="home_recyclage">
+  <div class="home_recyclage_picture"></div>
+  <div class="home_recyclage_infos">
+    <h1>Des materiaux</h1>
+    <h1><em class="pink-title">100% recyclables</em></h1>
+    <a class="home-recyclage-button" title="Recyclage" href="recyclage.php">En savoir plus</a>
+  </div>
+</div>
+
 <div class="gouts">
   <div class="gouts_infos">
     <h1>2 gouts <em class="pink-title">100% naturels</em> :</h1>

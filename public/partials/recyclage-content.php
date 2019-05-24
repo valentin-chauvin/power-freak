@@ -1,9 +1,3 @@
-<div class="recyclage_banner">
-  <div>
-    <h2>Le recyclage<em>,</em> une priorité</h2>
-  </div>
-</div>
-
 <div class="block_julius">
   <img class="julius_portrait" src="assets/images/julius_robert_von_mayer.png" alt="Portrait Julius Robert Von Mayer" width="300" />
   <h3>" L’energie ne se perd jamais, elle se transmet. "</h3>
@@ -40,7 +34,7 @@
     </section>
 
     <div class="recyclage_section_1_image">
-      <img src="assets/images/recyclable_symbol.svg" alt="Symbole Recyclable" width="300" />
+      <img src="assets/images/can_1.png" alt="Symbole Recyclable" width="300" />
     </div>
   </div>
 

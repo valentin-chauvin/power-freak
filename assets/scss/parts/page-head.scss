@@ -23,7 +23,6 @@ header {
       .block_panier {
         @include flex_row();
         align-items: center;
-        margin-right: 2vw;
       }
     }
   }
