@@ -15,7 +15,8 @@ module.exports = {
   },
   output: {
     path: path.resolve('./public/build/'),
-    publicPath: '/valentin_project_power_freak_website/public/build/',//Edit here
+    //publicPath: '/valentin_project_power_freak_website/public/build/',//Edit here POUR TRAVAILLER EN LOCAL
+    publicPath: '/build/',//Edit here POUR TRAVAILLER EN LIGNE
     filename: '[name].js',
   },
   plugins: [new MiniCssExtractPlugin()],
