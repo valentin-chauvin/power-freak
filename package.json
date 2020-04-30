@@ -13,7 +13,7 @@
   "private": false,
   "dependencies": {
     "bootstrap": "^4.2.1",
-    "jquery": "~3.3"
+    "jquery": "~3.5"
   },
   "devDependencies": {
     "@babel/core": "^7.1.6",
